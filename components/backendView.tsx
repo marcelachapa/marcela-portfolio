@@ -14,6 +14,7 @@ export default function BackendView() {
         {"    \"github\": \""}<a href={links.github} target="_blank" rel="noopener noreferrer" className="underline">{links.github}</a>{"\",\n"}
         {"    \"linkedin\": \""}<a href={links.linkedin} target="_blank" rel="noopener noreferrer" className="underline">{links.linkedin}</a>{"\",\n"}
         {"    \"email\": \""}<a href={`mailto:${links.email}`} className="underline">{links.email}</a>{"\"\n"}
+        {"    \"resume\": \""}<a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="underline"> My Resume</a>{"\"\n"}
         {"  }\n}"}
       </pre>
     </section>
