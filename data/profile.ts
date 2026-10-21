@@ -7,7 +7,7 @@ export const profile = {
   frontend: "can do. would rather not. did it anyway ↓",
   links: {
     github: "https://github.com/marcelachapa",
-    linkedin: "www.linkedin.com/in/marcelachapa",
+    linkedin: "https://www.linkedin.com/in/marcelachapa",
     email: "marcelachapag@outlook.com",
   },
 };

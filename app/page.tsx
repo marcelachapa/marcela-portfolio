@@ -1,7 +1,9 @@
-import BackendView from "@/components/backendView";
+import Hero from "@/components/Hero";
 
 export default function Home() {
   return (
-    <BackendView/>
+    <main>
+      <Hero />
+    </main>
   );
 }
